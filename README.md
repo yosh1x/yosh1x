@@ -1,16 +1,40 @@
-### Hi there 👋
+# Hi there, I'm Alex! 👋 ![Waving Hand](https://i.gifer.com/SPkY.gif)
+### Cybersecurity student from Russia, junior DevOps engineer 👨‍💻
 
-<!--
-**yosh1x/yosh1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Operating Systems:** 
+  - Linux 💻
+  - Windows 🪟
+  
+- **Programming Languages:**
+  - Python 🐍
+  - C++ 🖥️
+  - Bash 🛠️
 
-Here are some ideas to get you started:
+- **DevOps Tools:**
+  - Docker 🐳
+  - Kubernetes ☸️ 
+  - Ansible 🤖
+  - Terraform 🌐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Monitoring and Logging:**
+  - Prometheus 📈
+  - Grafana 📊
+  - Alertmanager 🚨
+
+- **Database:**
+  - PostgreSQL 🐘
+
+- **Version Control:**
+  - Git 📜
+
+### Hobbies and Interests
+
+Tuning motorcycles 🏍️, video games 🎮
+
+#
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/yosh1x)
+#
+
+📱How to reach me:
+- Email: alexey@orloff.me
+- Telegram: ![Yosh1x](https://t.me/yosh1x)
