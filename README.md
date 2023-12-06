@@ -30,9 +30,6 @@
 ### Hobbies and Interests
 
 Tuning motorcycles 🏍️, video games 🎮
-
-#
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/yosh1x)
 #
 
 📱How to reach me:
