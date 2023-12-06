@@ -37,4 +37,4 @@ Tuning motorcycles 🏍️, video games 🎮
 
 📱How to reach me:
 - Email: alexey@orloff.me
-- Telegram: ![Yosh1x](https://t.me/yosh1x)
+- Telegram: [Yosh1x](https://t.me/yosh1x)
