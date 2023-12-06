@@ -1,4 +1,5 @@
-# Hi there, I'm Alex! 👋 ![Waving Hand](https://i.gifer.com/SPkY.gif)
+# Hi there, I'm Alex! 👋 
+![Waving Hand](https://i.gifer.com/SPkY.gif)
 ### Cybersecurity student from Russia, junior DevOps engineer 👨‍💻
 
 - **Operating Systems:** 
